@@ -1,8 +1,8 @@
 # P2P
 
-P2P node implementation. Uses boostrap node as a peer discovery method.
+[P2P](https://en.wikipedia.org/wiki/Peer-to-peer) node implementation. Uses [boostraping node](https://en.wikipedia.org/wiki/Bootstrapping_node) as a peer discovery method.
 
-Currently under development:
+Currently under development. TODO list:
 
 - [ ] Basic functionality:
   - [ ] Bootstrap node discovery
